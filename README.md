@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hello, World! I'm Emilio!
 
-<!--
-**Papaemo/Papaemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **22-year-old** | 🎓 **3rd Year Computer Science Student**  
+💡 **Passionate about:**  
+- 🧠 **Data Science & Analytics**
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 💻 **Programming**
 
-Here are some ideas to get you started:
+🌱 **Currently learning:**  
+- Advanced AI techniques  
+- Data visualization with Tableau & Power BI  
+- SQL for data analysis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Exploring:**  
+- Real-world applications of machine learning  
+- Open-source projects  
+
+⚙️ **Skills:**  
+- Python, JavaScript, Java, C  
+- Git, Linux, Excel  
+- Tableau, Power BI, SQL  
+
+🌟 **Goals:**  
+- To contribute to innovative projects  
+- To expand my knowledge in AI and data science  
+
+📫 **Let's Connect:**  
+- [LinkedIn](https://www.linkedin.com/in/emilio-montelongo-luna/)  
+- [Email](emiliomonteluna@gmail.com)  
+
+---
+
+“**Strive not to be a success, but rather to be of value.**” – Albert Einstein
