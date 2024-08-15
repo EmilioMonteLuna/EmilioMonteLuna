@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Emilio!
 
-🎓 **22-year-old** | 🎓 **3rd Year Computer Science Student**  
+🎓 **22-year-old** | 🎓 **3rd Year Computer Science Student at the University of Saskatchewan**  
 💡 **Passionate about:**  
 - 🧠 **Data Science & Analytics**
 - 🤖 **Artificial Intelligence & Machine Learning**
