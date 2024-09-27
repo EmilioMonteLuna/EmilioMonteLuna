@@ -29,5 +29,8 @@
 - [Email](emiliomonteluna@gmail.com)  
 
 ---
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@emiliomonteluna/30-nites-of-code)  
+  ![@emiliomonteluna #30NitesOfCode](https://www.codedex.io/api/petStatus?user=emiliomonteluna)
 
 “**Strive not to be a success, but rather to be of value.**” – Albert Einstein
