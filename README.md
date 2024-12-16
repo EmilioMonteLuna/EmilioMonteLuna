@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Emilio!
 
-🎓 **22-year-old** | 🎓 **3rd Year Computer Science Student at the University of Saskatchewan**  
+🎓  **Computer Science Student at the University of Saskatchewan**  🎓
 💡 **Passionate about:**  
 - 🧠 **Data Science & Analytics**
 - 🤖 **Artificial Intelligence & Machine Learning**
@@ -8,7 +8,7 @@
 
 🌱 **Currently learning:**  
 - Advanced AI techniques  
-- Data visualization with Tableau & Power BI  
+- Data visualization with  Power BI  
 - SQL for data analysis  
 
 🔭 **Exploring:**  
@@ -18,7 +18,7 @@
 ⚙️ **Skills:**  
 - Python, JavaScript, Java, C  
 - Git, Linux, Excel  
-- Tableau, Power BI, SQL  
+- Power BI, PostGreSQL  
 
 🌟 **Goals:**  
 - To contribute to innovative projects  
