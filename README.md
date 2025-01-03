@@ -16,7 +16,7 @@
 - Open-source projects  
 
 ⚙️ **Skills:**  
-- Python, JavaScript, Java, C  
+- Python, Java, C  
 - Git, Linux, Excel  
 - Power BI, PostGreSQL  
 
