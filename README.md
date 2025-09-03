@@ -70,19 +70,19 @@
 ## 🔥 Featured Projects
 
 ### 🤖 [PopIn Event Networking AI Project](https://github.com/EmilioMonteLuna/PopInEventNetworkingAIProj)
-*AI-powered networking solution for events*
+*AI-powered networking solution for events.*
+
+### 🏪 [End-to-End Data Engineering - Global Retail](https://github.com/EmilioMonteLuna/End-to-End-DE-Global_Retail)
+*Complete data engineering pipeline for global retail analytics.*
+
+### 🍽️ [Food Marketing Data Analysis Project](https://github.com/EmilioMonteLuna/FoodMarketing_DA_Project)
+*Comprehensive data analysis for food marketing insights.*
 
 ### 🚦 [Traffic Analysis with PyTorch](https://github.com/EmilioMonteLuna/Traffic_Pytorch)
-*Deep learning model for traffic pattern analysis*
-
-### 💭 [Reflections App](https://github.com/EmilioMonteLuna/Reflections-App)
-*Personal reflection and wellbeing application*
-
-### 🌸 [Reflection Wellspring](https://github.com/EmilioMonteLuna/reflection-wellspring)
-*Enhanced wellbeing and mindfulness platform*
+*Deep learning model for traffic pattern analysis.*
 
 ### ⛽ [Fuel Economy Linear Regression](https://github.com/EmilioMonteLuna/Fuel_Economy_LinRegression)
-*Machine learning model predicting vehicle fuel efficiency*
+*Machine learning model predicting vehicle fuel efficiency.*
 
 ---
 
