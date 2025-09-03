@@ -33,6 +33,13 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+</div>
+
+### Data Visualization & BI
+<div align="center">
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
@@ -71,6 +78,9 @@
 ### 💭 [Reflections App](https://github.com/EmilioMonteLuna/Reflections-App)
 *Personal reflection and wellbeing application*
 
+### 🌸 [Reflection Wellspring](https://github.com/EmilioMonteLuna/reflection-wellspring)
+*Enhanced wellbeing and mindfulness platform*
+
 ### ⛽ [Fuel Economy Linear Regression](https://github.com/EmilioMonteLuna/Fuel_Economy_LinRegression)
 *Machine learning model predicting vehicle fuel efficiency*
 
@@ -79,7 +89,7 @@
 ## 🌱 Currently Learning & Exploring
 
 - 🧠 **Advanced AI Techniques** - Deep learning architectures and neural networks
-- 📊 **Data Visualization** - Creating impactful dashboards with Power BI
+- 📊 **Data Visualization** - Creating impactful dashboards with Tableau & Power BI
 - 🗃️ **Database Management** - Advanced SQL for complex data analysis
 - 🌐 **Real-world ML Applications** - Applying machine learning to solve practical problems
 - 🔧 **Open Source Contributions** - Contributing to the developer community
@@ -100,6 +110,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://emiliomonteluna.github.io/)
+[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/emilio.montelongo.luna/vizzes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-montelongo-luna/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emiliomonteluna@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmilioMonteLuna)
