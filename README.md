@@ -72,7 +72,7 @@
 ### 🤖 [PopIn Event Networking AI Project](https://github.com/EmilioMonteLuna/PopInEventNetworkingAIProj)
 *AI-powered networking solution for events.*
 
-### 🏪 [End-to-End Data Engineering - Global Retail](https://github.com/EmilioMonteLuna/End-to-End-DE-Global_Retail)
+### 🏪 [End-to-End Data Engineering - Global Retail](https://github.com/EmilioMonteLuna/End-to-End-DE-Global-Retail)
 *Complete data engineering pipeline for global retail analytics.*
 
 ### 🍽️ [Food Marketing Data Analysis Project](https://github.com/EmilioMonteLuna/FoodMarketing_DA_Project)
