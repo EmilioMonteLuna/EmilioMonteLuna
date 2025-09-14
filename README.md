@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello, World! I'm Emilio Monte Luna
+# 👋 Hello, World! I'm Emilio Montelongo Luna
 
 ### 🎓 Computer Science Student at the University of Saskatchewan
 ### 💡 Passionate about Data Science, AI & Machine Learning
