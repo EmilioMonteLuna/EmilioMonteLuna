@@ -5,10 +5,6 @@
 ### 🎓 Computer Science Student at the University of Saskatchewan
 ### 💡 Passionate about Data Science, AI & Machine Learning
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://emiliomonteluna.github.io/)
-
-<img src="https://github-readme-stats.vercel.app/api?username=EmilioMonteLuna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilioMonteLuna&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 
 </div>
 
