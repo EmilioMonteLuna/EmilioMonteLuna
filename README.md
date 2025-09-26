@@ -49,17 +49,7 @@
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-</div>
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmilioMonteLuna&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
